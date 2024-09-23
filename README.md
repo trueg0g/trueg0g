@@ -3,7 +3,9 @@
     <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" alt="coding gif" width="300" height="auto"/>
 </h3>
 <h3 align="center">I like coding</h3>
-<div>
+
+<br> <!-- This adds space between sections -->
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -24,4 +26,3 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 </p>
-</div>
