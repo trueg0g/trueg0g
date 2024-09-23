@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm trueg0g</h1>
 <h3 align="center">just like coding</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trueg0g&label=Profile%20views&color=0e75b6&style=flat" alt="trueg0g" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
