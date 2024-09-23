@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm trueg0g</h1>
-<h3 align="center">just like coding</h3>
+<h3 align="center">i like coding</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
